@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "637975566699",
+    "firebase_url": "https://social-login-c034b.firebaseio.com",
+    "project_id": "social-login-c034b",
+    "storage_bucket": "social-login-c034b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637975566699:android:6e36b28b2bb98d9876542e",
+        "android_client_info": {
+          "package_name": "com.ayush.sociallogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637975566699-cmj4udb6gqvha6ri2r8h5iijtnrooejd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2km3KqlTwlfJm0HT9UkyyoVpvFnOStJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637975566699-cmj4udb6gqvha6ri2r8h5iijtnrooejd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
