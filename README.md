@@ -92,3 +92,8 @@
  
 </ul>
 
+- To get photo url, in your next activity class write:
+```
+Intent intent = getIntent();
+String photo = String.valueOf(intent.getParcelableExtra("photo"));
+```
