@@ -1,6 +1,5 @@
 # GoogleLoginLibrary
 
-<h2><strong>Google Login Library</strong></h2>
 <p>This library will do google login and if authentication is successful, logs you in and takes you to next specified activity</p>
 <ul>
     <p>To use this library, you need to do the following: </p>
